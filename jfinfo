@@ -1,4 +1,5 @@
 #EXTM3U 
+
 #EXTINF:-1 tvg-id="1" tvg-name="BAND" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_BAND.png/71cf3f82-2937-431e-ac9d-4c479e41c2fa?t=1521041596231", BAND
 https://server100.online/band/tracks-v1a1/mono.m3u8?token=8f10439135f379347f91bdc5af7271fc89e2f0ad-3e246af1c060f2a5739c9468185559da-1672357912-1672350712
 
@@ -7,3 +8,6 @@ https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?token=2676412f217fb39970
 
 #EXTINF:-1 tvg-id="3" tvg-name="SBT" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_SBT.png/ed9a3472-fc9d-82b9-7a61-8a3ae157657b?t=1521041603551", SBT
 https://server100.online/sbt/tracks-v1a1/mono.m3u8?token=1657edac87bb856b9c36f267dd9d6ae71d7d8dcf-e022cb27748720e80d5557a112ff862f-1672357526-1672350326
+
+#EXTINF:-1 tvg-id="4" tvg-name="RECORDTV" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_RECORDTV.png/b8e7cb93-8816-a83b-72f5-a1e5a2f53559?t=1524697665232", RECORD TV
+https://server100.online/record/tracks-v1a1/mono.m3u8?token=75b33d64aee897daebd71cb6443348011e8602e6-602a2f03a9ce7439ddca6ab0309aabab-1672358224-1672351024
