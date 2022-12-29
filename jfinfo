@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="1" tvg-name="BAND" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_BAND.png/71cf3f82-2937-431e-ac9d-4c479e41c2fa?t=1521041596231", BAND
-https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4xj7fBo4Jf8NnnjRGoYoSqqOgsUvj60ueajumy5YOasR)/dm/3/x83vbd6/s/live-1.m3u8#cell=lnyc
+https://server100.online/band/tracks-v1a1/mono.m3u8?token=8f10439135f379347f91bdc5af7271fc89e2f0ad-3e246af1c060f2a5739c9468185559da-1672357912-1672350712
 
 #EXTINF:-1 tvg-id="2" tvg-name="GLOBO" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_GLOBO.png/455a14c7-cf8f-c022-068b-06735a9aa139?t=1526569849178", GLOBO SP
 https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?token=2676412f217fb39970ebf90b9bdd58cc3af37ff9-06d248683fb0ac0ebb198bfb0a135139-1672352995-1672345795
