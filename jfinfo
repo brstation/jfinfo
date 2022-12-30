@@ -12,7 +12,7 @@ off
 #EXTINF:-1 tvg-id="4" tvg-name="RECORDTV" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_RECORDTV.png/b8e7cb93-8816-a83b-72f5-a1e5a2f53559?t=1524697665232", RECORD TV off
 off
 
-#EXTINF:-1 tvg-id="5" tvg-name="RECORD NEWS ES" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_RN.png/3d98b330-5637-62fc-95a6-d170da363f09?t=1529953741744", RECORD NEWS ES
+#EXTINF:-1 tvg-id="5" tvg-name="RECORD NEWS " tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_RN.png/3d98b330-5637-62fc-95a6-d170da363f09?t=1529953741744", RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="6" tvg-name="TV APARECIDA" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_APARECIDA.png/f31aff28-d309-583c-6e6a-89a0d9eed309?t=1524697664869", TV APARECIDA
