@@ -33,20 +33,20 @@ http://rec2.tvpn.eu/ibl/ibl/129.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Megapix" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_MEGAPIX.png/49226e10-d0c3-c90f-6aea-0e680fc05025?t=1525015478101", Megapix
 https://connecttvapp.xyz/mgf4c18/mgf239161/614.m3u8
 
-#EXTINF:-1 tvg-id="10 tvg-name="FX" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_FX.png/10949be4-dac6-6e9a-4de7-cae3add90d0f?t=1521041599660", FX
+#EXTINF:-1 tvg-id="10" tvg-name="FX" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_FX.png/10949be4-dac6-6e9a-4de7-cae3add90d0f?t=1521041599660", FX
 https://connecttvapp.xyz/mgf4c18/mgf239161/76.m3u8
 
-#EXTINF:-1 tvg-id="11 tvg-name="HBO Xtreme" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/hboxtreme.png", HBO Xtreme
+#EXTINF:-1 tvg-id="11" tvg-name="HBO Xtreme" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/hboxtreme.png", HBO Xtreme
 https://live.embedflix.net/p2p/hboextreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyMiA2OjUyOjAzIEFNJmhhc2hfdmFsdWU9dm9uamRHb3laSkErUHpWUFdjcWlFQT09JnZhbGlkbWludXRlcz05MA==
 
-#EXTINF:-1 tvg-id="13 tvg-name="HBO" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_HBO.png/fa303a7e-e771-b138-36eb-fd8b66c6129f?t=1521041601270", HBO
+#EXTINF:-1 tvg-id="13" tvg-name="HBO" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_HBO.png/fa303a7e-e771-b138-36eb-fd8b66c6129f?t=1521041601270", HBO
 https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=1570026&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyMiA2OjU4OjA1IEFNJmhhc2hfdmFsdWU9eGtMd0ZGbklHNlFnM0Y4cDJsMG16QT09JnZhbGlkbWludXRlcz05MA==
 
-#EXTINF:-1 tvg-id="14 tvg-name="STAR CHANNEL" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_CHANNEL_COLOR_360x330.png/385c060f-714f-86f1-b0de-081bd5b18b70?t=1614020110865", STAR CHANNEL
+#EXTINF:-1 tvg-id="14" tvg-name="STAR CHANNEL" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_CHANNEL_COLOR_360x330.png/385c060f-714f-86f1-b0de-081bd5b18b70?t=1614020110865", STAR CHANNEL
 https://connecttvapp.xyz/mgf4c18/mgf239161/31.m3u8
 
-#EXTINF:-1 tvg-id="15 tvg-name="SPACE" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_SPACE.png/fdd7db36-ab96-cc32-68f0-1e46f9a0138f?t=1525015479036", SPACE
+#EXTINF:-1 tvg-id="15" tvg-name="SPACE" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_SPACE.png/fdd7db36-ab96-cc32-68f0-1e46f9a0138f?t=1525015479036", SPACE
 https://connecttvapp.xyz/mgf4c18/mgf239161/637.m3u8
 
-#EXTINF:-1 tvg-id="15 tvg-name="AXN" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_AXN.png/7c6f6dd3-2aeb-9fde-afd4-fea02c6703ac?t=1526569847715", AXN
+#EXTINF:-1 tvg-id="16' tvg-name="AXN" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_AXN.png/7c6f6dd3-2aeb-9fde-afd4-fea02c6703ac?t=1526569847715", AXN
 https://connecttvapp.xyz/mgf4c18/mgf239161/9.m3u8
