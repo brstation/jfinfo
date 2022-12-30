@@ -17,3 +17,6 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="6" tvg-name="TV APARECIDA" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_APARECIDA.png/f31aff28-d309-583c-6e6a-89a0d9eed309?t=1524697664869", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="7" tvg-name="REDE FAMILIA" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png", REDE FAMILIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w105679737_b1628000.m3u8
