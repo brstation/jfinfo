@@ -35,3 +35,6 @@ https://connecttvapp.xyz/mgf4c18/mgf239161/614.m3u8
 
 #EXTINF:-1 tvg-id="10 tvg-name="FX" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_FX.png/10949be4-dac6-6e9a-4de7-cae3add90d0f?t=1521041599660", FX
 https://connecttvapp.xyz/mgf4c18/mgf239161/76.m3u8
+
+#EXTINF:-1 tvg-id="10 tvg-name="HBO Xtreme" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/hboxtreme.png", HBO Xtreme
+https://live.embedflix.net/p2p/hboextreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyMiA2OjUyOjAzIEFNJmhhc2hfdmFsdWU9dm9uamRHb3laSkErUHpWUFdjcWlFQT09JnZhbGlkbWludXRlcz05MA==
