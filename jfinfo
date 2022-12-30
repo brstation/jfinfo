@@ -22,7 +22,10 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="6" tvg-name="TV Aparecida" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_APARECIDA.png/f31aff28-d309-583c-6e6a-89a0d9eed309?t=1524697664869", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="7" tvg-name="https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml#:~:text=site_id%3D%22132%22%20xmltv_id%3D%22-,Rede%20Fam%C3%ADlia,-%22%3ERede%20Fam%C3%ADlia%3C/channel" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png", REDE FAMILIA
+#EXTINF:-1 tvg-id="7" tvg-name="Rede Familia" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png", REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w105679737_b1628000.m3u8
 
 ##########FILMES##########
+
+#EXTINF:-1 tvg-id="8" tvg-name="AMC" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png", REDE FAMILIA
+http://rec2.tvpn.eu/ibl/ibl/129.m3u8
