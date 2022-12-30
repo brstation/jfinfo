@@ -25,7 +25,10 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="7" tvg-name="Rede Familia" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png", REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w105679737_b1628000.m3u8
 
-##########FILMES##########
+##########FILMES e Series##########
 
 #EXTINF:-1 tvg-id="8" tvg-name="AMC" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_amc.png/bd6ae70b-36db-2394-bc35-32e5982bab0c?t=1524702413002", AMC
 http://rec2.tvpn.eu/ibl/ibl/129.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Megapix" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_MEGAPIX.png/49226e10-d0c3-c90f-6aea-0e680fc05025?t=1525015478101", Megapix
+https://connecttvapp.xyz/mgf4c18/mgf239161/614.m3u8
