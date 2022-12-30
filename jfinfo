@@ -44,3 +44,6 @@ https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=1570026&wmsAuthSi
 
 #EXTINF:-1 tvg-id="14 tvg-name="STAR CHANNEL" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_CHANNEL_COLOR_360x330.png/385c060f-714f-86f1-b0de-081bd5b18b70?t=1614020110865", STAR CHANNEL
 https://connecttvapp.xyz/mgf4c18/mgf239161/31.m3u8
+
+#EXTINF:-1 tvg-id="15 tvg-name="SPACEL" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_SPACE.png/fdd7db36-ab96-cc32-68f0-1e46f9a0138f?t=1525015479036", SPACE
+https://connecttvapp.xyz/mgf4c18/mgf239161/637.m3u8
