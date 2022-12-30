@@ -16,7 +16,7 @@ https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Record HD" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_RECORDTV.png/b8e7cb93-8816-a83b-72f5-a1e5a2f53559?t=1524697665232", RECORD TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="Record News " tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_RN.png/3d98b330-5637-62fc-95a6-d170da363f09?t=1529953741744", RECORD NEWS
+#EXTINF:-1 tvg-id="5" tvg-name="Record News" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_RN.png/3d98b330-5637-62fc-95a6-d170da363f09?t=1529953741744", RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="6" tvg-name="TV Aparecida" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_APARECIDA.png/f31aff28-d309-583c-6e6a-89a0d9eed309?t=1524697664869", TV APARECIDA
@@ -45,5 +45,8 @@ https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=1570026&wmsAuthSi
 #EXTINF:-1 tvg-id="14 tvg-name="STAR CHANNEL" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_CHANNEL_COLOR_360x330.png/385c060f-714f-86f1-b0de-081bd5b18b70?t=1614020110865", STAR CHANNEL
 https://connecttvapp.xyz/mgf4c18/mgf239161/31.m3u8
 
-#EXTINF:-1 tvg-id="15 tvg-name="SPACEL" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_SPACE.png/fdd7db36-ab96-cc32-68f0-1e46f9a0138f?t=1525015479036", SPACE
+#EXTINF:-1 tvg-id="15 tvg-name="SPACE" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_SPACE.png/fdd7db36-ab96-cc32-68f0-1e46f9a0138f?t=1525015479036", SPACE
 https://connecttvapp.xyz/mgf4c18/mgf239161/637.m3u8
+
+#EXTINF:-1 tvg-id="15 tvg-name="AXN" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_AXN.png/7c6f6dd3-2aeb-9fde-afd4-fea02c6703ac?t=1526569847715", AXN
+https://connecttvapp.xyz/mgf4c18/mgf239161/9.m3u8
